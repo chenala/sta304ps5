@@ -1,0 +1,38 @@
+---
+title: "Best Ways To Get An Early Advantage In League of Legends"
+author: "STA304 student"
+date: "December 9, 2020"
+
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Keywords: Multilevel regression with post-stratification, League of Legends, Early game advantage
+
+## Abstract
+
+Winning a game of League of Legends is difficult and requires a great amount of decision making. While there so many things to do in the game, it is common to see players not know what to prioritize and that will often cause them to fall behind in the game. Particularly in the first 10 minutes of the game, it is important to get an early lead over the opponent to secure big objectives later on. We studied the data collected from over thousands of previous high-ranked games. By using the logistic regression to predict the whether a team will win based on what they have accomplished, we found out that while there are many aspects to the game that can make a team stronger, there is only so much that can be done in the given time and teams will need to prioritize enemy kills and early dragons to maximize their advantage over the other team. This advice does not only apply to the high-ranked players, but also all players of any rank as we have adjusted our model to fit the general skill level of the playerbase.
+
+
+## Introduction
+
+If you have played or looked at any video games recently, you may have heard of League of Legends. League of Legends (LoL) is one of the most popular online multiplayer games with an enormous e-sports scene. Chances are that you have played the game before, or you may know people that play the game, or you may be curious on what this game is all about. In any case, LoL is a strategic game that involves a great amount of teamwork and coordination. While games typically last 20-40 minutes, the first 10 minutes of the game (the early game phase) is arguably the most important part of the game because it sets up small advantages that snowball into large advantages, ultimately leading to victory. The challenging part of the game is decision making because every game is different and you will need to adapt to various situations. By analyzing the data of previous games, we will research about what are the general goals and actions that should be prioritized in the early game to get ahead.
+
+## Data
+
+This section is work in progress.
+
+## Model
+
+This section is work in progress.
+
+## Results
+
+This section is work in progress.
+
+## Discussion
+
+This section is work in progress.
