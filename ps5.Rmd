@@ -26,6 +26,8 @@ library(kableExtra)
 
 Keywords: logistic regression, League of Legends, Early game advantage
 
+Link to Github repo: https://github.com/chenala/sta304ps5
+
 # Abstract
 
 Winning a game of League of Legends is difficult and requires a great amount of decision making. While there so many things to do in the game, it is common to see players not know what to prioritize and that will often cause them to fall behind in the game. Particularly in the first 10 minutes of the game, it is important to get an early lead over the opponent to secure big objectives later on. We studied the data collected from over thousands of high-ranked (Diamond+) games. By using the logistic regression to predict the whether a team will win based on what they have accomplished, we found out that while there are many aspects to the game that can make a team stronger, there is only so much that can be done in the given time and teams will need to prioritize primarily dragons to maximize their advantage over the other team.
